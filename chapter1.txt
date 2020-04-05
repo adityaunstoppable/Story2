@@ -1,2 +1,3 @@
 This is the master branch
 this is the line of master branch which will get updated as experimental branch below 
+This is the upgraded text of master branch which will get merged in master branch 
